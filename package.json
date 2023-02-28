@@ -1,0 +1,24 @@
+{
+  "name": "js-tests-jest",
+  "version": "1.0.0",
+  "description": "In this exercise, I'll write a few practical tests for JavaScript functions using the Jest library.",
+  "main": "strLength.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasAndrehh/JS-Tests-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicolasAndrehh/JS-Tests-Jest/issues"
+  },
+  "homepage": "https://github.com/NicolasAndrehh/JS-Tests-Jest#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
